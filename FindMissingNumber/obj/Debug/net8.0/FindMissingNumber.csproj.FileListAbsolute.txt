@@ -1,0 +1,14 @@
+c:\01_Directory\AUS\2_Resumes\2025\Parcell\Src\Test1\FindMissingNumber\bin\Debug\net8.0\FindMissingNumber.exe
+c:\01_Directory\AUS\2_Resumes\2025\Parcell\Src\Test1\FindMissingNumber\bin\Debug\net8.0\FindMissingNumber.deps.json
+c:\01_Directory\AUS\2_Resumes\2025\Parcell\Src\Test1\FindMissingNumber\bin\Debug\net8.0\FindMissingNumber.runtimeconfig.json
+c:\01_Directory\AUS\2_Resumes\2025\Parcell\Src\Test1\FindMissingNumber\bin\Debug\net8.0\FindMissingNumber.dll
+c:\01_Directory\AUS\2_Resumes\2025\Parcell\Src\Test1\FindMissingNumber\bin\Debug\net8.0\FindMissingNumber.pdb
+c:\01_Directory\AUS\2_Resumes\2025\Parcell\Src\Test1\FindMissingNumber\obj\Debug\net8.0\FindMissingNumber.GeneratedMSBuildEditorConfig.editorconfig
+c:\01_Directory\AUS\2_Resumes\2025\Parcell\Src\Test1\FindMissingNumber\obj\Debug\net8.0\FindMissingNumber.AssemblyInfoInputs.cache
+c:\01_Directory\AUS\2_Resumes\2025\Parcell\Src\Test1\FindMissingNumber\obj\Debug\net8.0\FindMissingNumber.AssemblyInfo.cs
+c:\01_Directory\AUS\2_Resumes\2025\Parcell\Src\Test1\FindMissingNumber\obj\Debug\net8.0\FindMissingNumber.csproj.CoreCompileInputs.cache
+c:\01_Directory\AUS\2_Resumes\2025\Parcell\Src\Test1\FindMissingNumber\obj\Debug\net8.0\FindMissingNumber.dll
+c:\01_Directory\AUS\2_Resumes\2025\Parcell\Src\Test1\FindMissingNumber\obj\Debug\net8.0\refint\FindMissingNumber.dll
+c:\01_Directory\AUS\2_Resumes\2025\Parcell\Src\Test1\FindMissingNumber\obj\Debug\net8.0\FindMissingNumber.pdb
+c:\01_Directory\AUS\2_Resumes\2025\Parcell\Src\Test1\FindMissingNumber\obj\Debug\net8.0\FindMissingNumber.genruntimeconfig.cache
+c:\01_Directory\AUS\2_Resumes\2025\Parcell\Src\Test1\FindMissingNumber\obj\Debug\net8.0\ref\FindMissingNumber.dll
